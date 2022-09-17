@@ -1,6 +1,6 @@
 # Today I Learned
 
-<p><a href="https://cyber93.netlify.app"><img src="https://img.shields.io/badge/Site-https%3A%2F%2Fcyber93.netlify.app-blue" alt="TIL" /></a>
+<p><a href="https://cyber93-til.netlify.app"><img src="https://img.shields.io/badge/Site-https%3A%2F%2Fcyber93--til.netlify.app-blue" alt="TIL" /></a>
 
 
 배운 것과 공부한 것을 작성합니다.
