@@ -6,7 +6,7 @@
 
 ​
 
-# MY Blog <small>1.0</small>
+# MY TIL <small>1.0</small>
 
 ​
 
