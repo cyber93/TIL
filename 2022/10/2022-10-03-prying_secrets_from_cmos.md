@@ -7,14 +7,14 @@
 
 
 
-![1](D:\이한덕\01.Workspace\000.Dev_Repository\001.GitHub_cyber93\TIL\2022\10\_media\1.PNG)
+![1](./_media/1.PNG)
 
-![2](D:\이한덕\01.Workspace\000.Dev_Repository\001.GitHub_cyber93\TIL\2022\10\_media\2.PNG)
+![2](./_media/2.PNG)
 
-![3](D:\이한덕\01.Workspace\000.Dev_Repository\001.GitHub_cyber93\TIL\2022\10\_media\3.PNG)
+![3](./_media/3.PNG)
 
-![4](D:\이한덕\01.Workspace\000.Dev_Repository\001.GitHub_cyber93\TIL\2022\10\_media\4.PNG)
+![4](./_media/4.PNG)
 
-![5](D:\이한덕\01.Workspace\000.Dev_Repository\001.GitHub_cyber93\TIL\2022\10\_media\5.PNG)
+![5](./_media/5.PNG)
 
-![6](D:\이한덕\01.Workspace\000.Dev_Repository\001.GitHub_cyber93\TIL\2022\10\_media\6.PNG)
+![6](./_media/6.PNG)
