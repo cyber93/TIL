@@ -1,4 +1,4 @@
-# Linux Kernel Trace - ftrace framework 구조 및 소스파일 구조
+# ftrace framework 구조 및 소스파일 구조
 > ◈ References
 >
 >  - 박진범(jinb.park7@gmail.com)
