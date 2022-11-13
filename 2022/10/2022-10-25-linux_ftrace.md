@@ -7,7 +7,7 @@
 
 ## ftrace framework 구조
 
-ftrace는 Linux Kernel을 Trace하기 위한 하나의 framework이다. 위 그림은 ftrace framework의 구조이다.
+ftrace는 Linux Kernel을 Trace하기 위한 하나의 framework이다. 아래 그림은 ftrace framework의 구조이다.
 
 ![logo](_media/ftrace1.png)
 
